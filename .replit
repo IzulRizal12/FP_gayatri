@@ -1,0 +1,1 @@
+run = "apt-get install php-mysql && php -S 0.0.0.0:8080"
